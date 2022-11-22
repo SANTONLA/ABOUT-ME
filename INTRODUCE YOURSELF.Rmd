@@ -1,1 +1,52 @@
+Hi, I’m @SANTONLAR
 
+👀 I’m interested in SQL, Matlab, R Studio; Github tips
+
+🌱 I’m currently learning how to do a CV on Github
+
+💞️ I’m looking to collaborate on R studio projects.
+
+📫 How to reach me. Just Twitter to: @santonlar
+
+#ACADEMIC BACKGROUND
+
+MSc in BUSINESS INTELLIGENCE
+
+oct 2019 - oct 2021UNIR, LOGROÑO
+
+BACHELOR’S DEGREE IN BUSINESS ADMINISTRATION AND MANAGEMENT
+
+sep 2014 - oct 2018 UNIR, LOGROÑO
+
+#PROFESSIONAL BACKGROUND
+
+PURCHASING SPECIALIST ene 2013 - jun 2020
+
+FM LOGISTIC, ANSOAIN
+
+SALES ADMINISTRATIVE feb 2011 - mar 2012
+DISTRIBUCIONE SUNER, S.L.U., BARBATAIN
+
+BUYER ene 2004 - abr 2008
+TI AUTOMOTIVE, BERRIOPLANO
+
+# EXPERIENCE WITH R
+
+Master Thesis: Optimization of the profit and loss account through quantitative techniques and machine learning from the perspective of Business Intelligence.
+
+The master was my first contact with a programming language. I keep learning and improving the different machine learning algorithms.
+
+# Experience with Other Analytic Software
+I have experience and/or exposure to the following analytic software:
+
+SQL
+
+R
+
+Matlab
+
+Gretl
+
+Power Bi
+
+GitHub
